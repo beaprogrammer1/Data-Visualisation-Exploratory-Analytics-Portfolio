@@ -17,7 +17,7 @@ Welcome to my comprehensive data storytelling portfolio. This repository showcas
 7. **Critique Analysis:** Academic evaluation of misleading data visualizations.
 
 ## 🚀 Key Deliverables
-- [View Full PDF Report]([Final-Report/Final Report.pdf](https://github.com/beaprogrammer1/Data-Visualisation-Exploratory-Analytics-Portfolio/blob/e8584ba984179130c45ca23a8833730512f5f22c/Final-Report/Final%20Report.pdf))
+- [View Full PDF Report](https://github.com/beaprogrammer1/Data-Visualisation-Exploratory-Analytics-Portfolio/blob/e8584ba984179130c45ca23a8833730512f5f22c/Final-Report/Final%20Report.pdf)
 - [Download Tableau Workbook (.twbx)](./Obaid_Data_Portfolio.twbx)
 
 ---
