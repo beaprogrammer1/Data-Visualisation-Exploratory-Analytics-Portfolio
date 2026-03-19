@@ -1,5 +1,3 @@
-# Data-Visualisation-Exploratory-Analytics-Portfolio
-
 # 📊 Professional Data Visualisation & Exploratory Analytics Portfolio
 
 Welcome to my comprehensive data storytelling portfolio. This repository showcases a collection of 7 analytical entries, demonstrating expertise in **Tableau**, **Python (Pandas/Seaborn)**, and **Business Intelligence**.
