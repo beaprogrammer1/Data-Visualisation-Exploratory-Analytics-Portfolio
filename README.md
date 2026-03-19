@@ -18,7 +18,7 @@ Welcome to my comprehensive data storytelling portfolio. This repository showcas
 
 ## 🚀 Key Deliverables
 - [View Full PDF Report](https://github.com/beaprogrammer1/Data-Visualisation-Exploratory-Analytics-Portfolio/blob/e8584ba984179130c45ca23a8833730512f5f22c/Final-Report/Final%20Report.pdf)
-- [Download Tableau Workbook (.twbx)](./Obaid_Data_Portfolio.twbx)
+- [Download Tableau Workbook (.twbx)](https://github.com/beaprogrammer1/Data-Visualisation-Exploratory-Analytics-Portfolio/blob/e11c13e09f129d56baae1a861b18bfb9d0878811/Final-Report/Data_Visualisation.twbx)
 
 ---
 **Connect with me:** [LinkedIn Profile](https://www.linkedin.com/in/obaidofficialprofile)
